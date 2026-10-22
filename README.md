@@ -4,9 +4,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1A1A&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o+na+SPTech" alt="typing" />
+<img src="https://raw.githubusercontent.com/Lucas-S-Gama/Lucas-S-Gama/main/assets/OnePieceGIF.gif" width="400" alt="One Piece" />
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1A1A&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+SPTech" alt="typing" />
 
 </div>
+
+<img src="./assets/OnePieceGIF.gif" width="400" alt="One Piece" />
 
 ---
 
@@ -16,8 +22,8 @@
 - Atualmente trabalhando em projetos com **Java, Python e AWS**
 - Aprendendo mais sobre **dados, nuvem e desenvolvimento web**
 - Aberto a colaborar em projetos
-- Fale comigo: [LinkedIn](www.linkedin.com/in/lucas-gama-b724953b0) | [E-mail](lucas.gama@sptech.school)
-
+- Fale comigo: [LinkedIn](https://www.linkedin.com/in/lucas-gama-b724953b0) | [E-mail](mailto:lucas.gama@sptech.school)
+  
 ---
 
 ## Tecnologias
