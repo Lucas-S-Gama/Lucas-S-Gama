@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1A1A&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o+na+SPTech;Apaixonado+por+tecnologia+e+dados;Sempre+aprendendo+algo+novo" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF1A1A&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Lucas+%F0%9F%91%8B;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o+na+SPTech" alt="typing" />
 
 </div>
 
