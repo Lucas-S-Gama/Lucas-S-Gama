@@ -8,6 +8,8 @@
 
 </div>
 
+<img src="./assets/OnePieceGIF.gif" width="400" alt="One Piece" />
+
 ---
 
 ## Sobre mim
