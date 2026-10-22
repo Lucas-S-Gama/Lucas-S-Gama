@@ -46,20 +46,6 @@
 
 ---
 
-## Ouvindo agora no Spotify
-
-<div align="center">
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=314pmvbqd62rmpnhmqjenk34vouq&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&hide_remaster=false&mode=dark&bar_color=ff0000&bar_color_cover=false">
-  </a>
-</p>
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:b30000,100:000000&section=footer" />
